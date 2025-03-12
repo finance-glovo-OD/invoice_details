@@ -1,0 +1,15 @@
+streamlit
+matplotlib
+seaborn
+pandas
+numpy
+openpyxl
+python-dateutil
+gspread
+google-auth
+google-auth-oauthlib
+google-api-python-client
+gspread-dataframe
+trino
+requests
+xlsxwriter
